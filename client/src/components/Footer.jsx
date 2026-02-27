@@ -12,7 +12,7 @@ export default function Footer() {
         </div>
 
         <p className="text-slate-600 text-sm text-center">
-          © {new Date().getFullYear()} Your Name. All rights reserved.
+          © {new Date().getFullYear()} SHAILESH. All rights reserved.
         </p>
 
         <a

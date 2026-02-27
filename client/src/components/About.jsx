@@ -18,9 +18,9 @@ export default function About() {
               {/* Avatar placeholder */}
               <div className="relative card-glass rounded-3xl p-8 text-center glow-border">
                 <div className="w-32 h-32 mx-auto rounded-2xl bg-gradient-to-br from-indigo-500 to-purple-600 flex items-center justify-center text-5xl font-bold font-display text-white mb-6 shadow-2xl">
-                  YN
+                  SKY
                 </div>
-                <h3 className="font-display font-bold text-xl text-white mb-1">Your Name</h3>
+                <h3 className="font-display font-bold text-xl text-white mb-1">er.shailesh</h3>
                 <p className="text-slate-400 text-sm font-mono mb-6">Full Stack Developer</p>
 
                 {/* Mini skills */}

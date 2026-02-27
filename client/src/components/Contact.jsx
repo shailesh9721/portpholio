@@ -89,7 +89,7 @@ export default function Contact() {
           <div className="md:col-span-3 reveal">
             <form onSubmit={handleSubmit} className="card-glass glow-border rounded-2xl p-8 space-y-5">
               <div className="grid sm:grid-cols-2 gap-5">
-                <InputField label="Your Name" name="name" placeholder="John Doe" value={form.name} onChange={handleChange} error={errors.name} />
+                <InputField label="er.shailesh" name="name" placeholder="John Doe" value={form.name} onChange={handleChange} error={errors.name} />
                 <InputField label="Email Address" name="email" type="email" placeholder="john@email.com" value={form.email} onChange={handleChange} error={errors.email} />
               </div>
               <InputField label="Subject" name="subject" placeholder="Project Inquiry" value={form.subject} onChange={handleChange} error={errors.subject} />
