@@ -6,7 +6,7 @@ const projects = [
     gradient: 'from-indigo-600 to-blue-600',
     icon: '🛒',
     github: 'https://github.com',
-    live: 'https://example.com',
+    live: 'https://farmitra-6ilvz8p09-shaileshkumaryadas-projects.vercel.app/',
     featured: true,
   },
   {
