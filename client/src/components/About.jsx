@@ -1,7 +1,7 @@
 const stats = [
-  { value: '3+', label: 'Years Experience' },
-  { value: '20+', label: 'Projects Built' },
-  { value: '15+', label: 'Happy Clients' },
+  { value: '1+', label: 'Years Experience' },
+  { value: '10+', label: 'Projects Built' },
+  { value: '7+', label: 'Happy Clients' },
   { value: '5★', label: 'Avg. Rating' },
 ]
 

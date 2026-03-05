@@ -27,7 +27,7 @@ export default function Navbar() {
         {/* Logo */}
         <a href="#hero" className="flex items-center gap-2 group">
           <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-indigo-500 to-purple-600 flex items-center justify-center text-white font-bold text-sm font-mono group-hover:scale-110 transition-transform">
-            FS
+            SK
           </div>
           <span className="font-display font-bold text-white tracking-tight hidden sm:block">
             Dev<span className="text-gradient">Portfolio</span>

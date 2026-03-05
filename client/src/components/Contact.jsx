@@ -52,9 +52,9 @@ export default function Contact() {
           {/* Info cards */}
           <div className="md:col-span-2 space-y-4 reveal">
             {[
-              { icon: '📧', label: 'Email', value: 'hello@yourname.dev', href: 'mailto:hello@yourname.dev' },
+              { icon: '📧', label: 'Email', value: 'shailesh972185@gmail.com', href: 'mailto:hello@yourname.dev' },
               { icon: '💼', label: 'LinkedIn', value: '/in/yourname', href: 'https://linkedin.com' },
-              { icon: '🐙', label: 'GitHub', value: '@yourname', href: 'https://github.com' },
+              { icon: '🐙', label: 'GitHub', value: '@shailesh9721', href: 'https://github.com' },
             ].map(item => (
               <a
                 key={item.label}

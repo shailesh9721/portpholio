@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
         <div className="flex items-center gap-2">
           <div className="w-7 h-7 rounded-lg bg-gradient-to-br from-indigo-500 to-purple-600 flex items-center justify-center text-white font-bold text-xs font-mono">
-            FS
+            SK
           </div>
           <span className="text-slate-400 text-sm font-mono">
             Built with <span className="text-red-400">❤</span> using MERN + Tailwind
