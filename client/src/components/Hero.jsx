@@ -56,7 +56,7 @@ export default function Hero() {
           style={{ animationDelay: '0.1s', opacity: 0, animationFillMode: 'forwards' }}
         >
           Hi, I'm{' '}
-          <span className="text-gradient block md:inline">er.shailesh</span>
+          <span className="text-gradient block md:inline">shailesh</span>
         </h1>
 
         {/* Typewriter */}
